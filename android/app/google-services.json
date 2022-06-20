@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "204990008762",
+    "project_id": "hemih-c2d71",
+    "storage_bucket": "hemih-c2d71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204990008762:android:31509de89da3fa78d0e183",
+        "android_client_info": {
+          "package_name": "com.example.hemih1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204990008762-aeril682qee76fbdc8q8uf51q4lsbd3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDec1pG9ptZGwZC8YwlfqyOi-PsOxeozpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204990008762-aeril682qee76fbdc8q8uf51q4lsbd3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
